@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+### ue4学习笔记
+> 最近公司在用ue4做直播，所以自己也来学习一下，入个门，懂点皮毛吧。
 
-You can use the [editor on GitHub](https://github.com/myYang2016/yxg.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+#### 一、什么是ue4？
+是一个3d游戏引擎。当然，可以做各种3d场景，比如3d动画等。
+ue4本身支持可视化编程，即蓝图开发。同时也支持c++开发。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 二、学习途径
+可以通过官网和视频进行学习。
+[官网](https://docs.unrealengine.com/4.27/zh-CN/)
+[视频](https://www.bilibili.com/video/BV164411Y732?p=2&spm_id_from=pageDriver)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/myYang2016/yxg.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### 三、（持续更新。。。）
